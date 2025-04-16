@@ -1,2 +1,2 @@
 - Ethic Scholarship, 2022.
-- Third Class Scholarship, 2024.
+- Third Class Scholarship, 2020.
