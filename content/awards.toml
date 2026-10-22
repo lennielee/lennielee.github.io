@@ -1,0 +1,11 @@
+type = "card"
+title = "Awards"
+description = "Honors and awards I have received."
+
+[[items]]
+title = "Ethic Scholarship"
+date = "2022"
+
+[[items]]
+title = "Third Class Scholarship"
+date = "2020"

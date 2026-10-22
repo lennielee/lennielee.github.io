@@ -1,0 +1,11 @@
+type = "card"
+title = "Teaching"
+description = "Courses I have taught or assisted with."
+
+# Add courses like this (and delete the `items = []` line):
+# [[items]]
+# title = "Course Name"
+# subtitle = "Teaching Assistant"
+# date = "2027"
+# content = "Description of the course and responsibilities."
+items = []

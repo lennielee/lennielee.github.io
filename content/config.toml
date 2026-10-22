@@ -1,0 +1,65 @@
+[site]
+title = "Linze Li"
+description = "Linze Li, Ph.D. student in Computer Science at Oregon State University."
+favicon = "/favicon.svg"
+last_updated = "October 21, 2026"
+
+[author]
+name = "Linze Li"
+title = "Ph.D. Student"
+institution = "Oregon State University"
+avatar = "/photo.jpg"
+
+[social]
+# Contact information (leave blank or delete to hide)
+email = "lilinz@oregonstate.edu"
+github = "https://github.com/lennielee"
+
+[features]
+# Show a like button on the about page
+enable_likes = false
+
+# Display all subpages on a single page
+enable_one_page_mode = false
+
+# English only: no language switcher, no Chinese pages.
+[i18n]
+enabled = false
+locales = ["en"]
+default_locale = "en"
+
+[[navigation]]
+title = "About"
+type = "page"
+target = "about"
+href = "/"
+
+[[navigation]]
+title = "Publications"
+type = "page"
+target = "publications"
+href = "/publications"
+
+[[navigation]]
+title = "Teaching"
+type = "page"
+target = "teaching"
+href = "/teaching"
+
+[[navigation]]
+title = "Awards"
+type = "page"
+target = "awards"
+href = "/awards"
+
+[[navigation]]
+title = "Services"
+type = "page"
+target = "services"
+href = "/services"
+
+[[navigation]]
+title = "CV"
+type = "page"
+target = "cv"
+href = "/cv"

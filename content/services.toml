@@ -1,0 +1,10 @@
+type = "card"
+title = "Services"
+description = "Professional services and community involvement."
+
+# Add services like this (and delete the `items = []` line):
+# [[items]]
+# title = "Reviewer"
+# subtitle = "Journal / Conference Name"
+# date = "2027"
+items = []

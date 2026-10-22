@@ -1,0 +1,14 @@
+type = "about"
+title = "About"
+
+[profile]
+research_interests = [
+  "High-Performance Computing",
+  "Scientific Data Compression"
+]
+
+[[sections]]
+id = "about"
+type = "markdown"
+source = "bio.md"
+title = "About"
