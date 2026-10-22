@@ -12,3 +12,18 @@ id = "about"
 type = "markdown"
 source = "bio.md"
 title = "About"
+
+# Shows papers marked `selected = {true}` in publications.bib (hidden while there are none)
+[[sections]]
+id = "featured_publications"
+type = "publications"
+title = "Selected Publications"
+filter = "selected"
+limit = 5
+
+# Shows entries from news.toml (hidden while there are none)
+[[sections]]
+id = "news"
+type = "list"
+title = "News"
+source = "news.toml"

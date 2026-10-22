@@ -79,6 +79,8 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
                       />
                     );
                   case 'publications':
+                    // Hide the section until there is something to show
+                    if (!section.publications?.length) return null;
                     return (
                       <SelectedPublications
                         key={section.id}
@@ -88,6 +90,7 @@ export default function HomePageClient({ dataByLocale, defaultLocale }: HomePage
                       />
                     );
                   case 'list':
+                    if (!section.items?.length) return null;
                     return (
                       <News
                         key={section.id}
