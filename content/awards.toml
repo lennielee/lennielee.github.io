@@ -3,6 +3,16 @@ title = "Awards"
 description = "Honors and awards I have received."
 
 [[items]]
+title = "Provost's Distinguished Graduate Scholarship (2026-2027)"
+subtitle = "Oregon State University"
+date = "2026"
+
+[[items]]
+title = "Graduate Academic Scholarship"
+subtitle = "University of Chinese Academy of Sciences"
+date = "2023 - 2025"
+
+[[items]]
 title = "Ethic Scholarship"
 date = "2022"
 
