@@ -15,8 +15,8 @@
 
 - Provost's Distinguished Graduate Scholarship (2026-2027), Oregon State University (*2026*)
 - Graduate Academic Scholarship, University of Chinese Academy of Sciences (*2023 - 2025*)
-- Ethic Scholarship (*2022*)
-- Third Class Scholarship (*2020*)
+- Ethic Scholarship, Jilin University (*2022*)
+- Third Class Scholarship, Jilin University (*2020*)
 
 ## Contact
 
